@@ -52,3 +52,22 @@
     max-width: 100%;
     margin: 0 auto;
 }
+
+/* 1. feladat */
+.offers .card-header,
+.offers .card-title {
+    color: rgb(217, 243, 240);
+}
+
+/* 2. feladat */
+.navbar .nav-link.active {
+    color: rgb(71, 71, 150) !important;
+    font-weight: bold;
+}
+
+/* 3. feladat */
+.start {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
