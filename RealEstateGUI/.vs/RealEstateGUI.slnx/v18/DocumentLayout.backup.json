@@ -3,12 +3,18 @@
   "WorkspaceRootPath": "D:\\0527\\RealEstateGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A29A1D32-0FA6-3362-6B95-DF75BC65938A}|RealEstateGUI.csproj|d:\\0527\\realestategui\\ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A29A1D32-0FA6-3362-6B95-DF75BC65938A}|RealEstateGUI.csproj|solutionrelative:ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A29A1D32-0FA6-3362-6B95-DF75BC65938A}|RealEstateGUI.csproj|d:\\0527\\realestategui\\ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A29A1D32-0FA6-3362-6B95-DF75BC65938A}|RealEstateGUI.csproj|solutionrelative:ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D4891B-7BE2-9937-0C04-FFECA5FA2DC6}|..\\RealEstate\\RealEstate.csproj|d:\\0527\\realestate\\dbmysqlmodels\\realestatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29A1D32-0FA6-3362-6B95-DF75BC65938A}|RealEstateGUI.csproj|d:\\0527\\realestategui\\ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A29A1D32-0FA6-3362-6B95-DF75BC65938A}|RealEstateGUI.csproj|solutionrelative:ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +36,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAIcJAAAAAAAAAAD4v5QJAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-05-27T17:30:19.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealestateContext.cs",
+              "DocumentMoniker": "D:\\0527\\RealEstate\\DbMysqlModels\\RealestateContext.cs",
+              "RelativeDocumentMoniker": "..\\RealEstate\\DbMysqlModels\\RealestateContext.cs",
+              "ToolTip": "D:\\0527\\RealEstate\\DbMysqlModels\\RealestateContext.cs",
+              "RelativeToolTip": "..\\RealEstate\\DbMysqlModels\\RealestateContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:28:16.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Ingatlanok.cs",
               "DocumentMoniker": "D:\\0527\\RealEstateGUI\\Ingatlanok.cs",
               "RelativeDocumentMoniker": "Ingatlanok.cs",
               "ToolTip": "D:\\0527\\RealEstateGUI\\Ingatlanok.cs",
               "RelativeToolTip": "Ingatlanok.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAjwAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T16:48:47.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Ingatlanok.cs [Design]",
               "DocumentMoniker": "D:\\0527\\RealEstateGUI\\Ingatlanok.cs",
               "RelativeDocumentMoniker": "Ingatlanok.cs",
